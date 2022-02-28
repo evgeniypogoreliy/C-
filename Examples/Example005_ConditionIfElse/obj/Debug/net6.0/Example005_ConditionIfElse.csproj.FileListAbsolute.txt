@@ -1,0 +1,30 @@
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\Joy\Desktop\Geekbrains\Знакомство с языком программирования С#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.exe
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.deps.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.runtimeconfig.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\bin\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.AssemblyReference.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfoInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.AssemblyInfo.cs
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\refint\Example005_ConditionIfElse.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\Example005_ConditionIfElse.genruntimeconfig.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\C#\Examples\Example005_ConditionIfElse\obj\Debug\net6.0\ref\Example005_ConditionIfElse.dll
