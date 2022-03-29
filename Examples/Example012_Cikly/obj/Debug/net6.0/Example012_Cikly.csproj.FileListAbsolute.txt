@@ -1,0 +1,15 @@
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\bin\Debug\net6.0\Example012_Cikly.exe
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\bin\Debug\net6.0\Example012_Cikly.deps.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\bin\Debug\net6.0\Example012_Cikly.runtimeconfig.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\bin\Debug\net6.0\Example012_Cikly.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\bin\Debug\net6.0\Example012_Cikly.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.csproj.AssemblyReference.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.AssemblyInfoInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.AssemblyInfo.cs
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.csproj.CoreCompileInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\refint\Example012_Cikly.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\Example012_Cikly.genruntimeconfig.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example012_Cikly\obj\Debug\net6.0\ref\Example012_Cikly.dll
