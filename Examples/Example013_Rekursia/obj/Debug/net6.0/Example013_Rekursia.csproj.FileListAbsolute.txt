@@ -1,0 +1,15 @@
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\bin\Debug\net6.0\Example013_Rekursia.exe
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\bin\Debug\net6.0\Example013_Rekursia.deps.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\bin\Debug\net6.0\Example013_Rekursia.runtimeconfig.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\bin\Debug\net6.0\Example013_Rekursia.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\bin\Debug\net6.0\Example013_Rekursia.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.csproj.AssemblyReference.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.AssemblyInfoInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.AssemblyInfo.cs
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.csproj.CoreCompileInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\refint\Example013_Rekursia.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\Example013_Rekursia.genruntimeconfig.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Example013_Rekursia\obj\Debug\net6.0\ref\Example013_Rekursia.dll
