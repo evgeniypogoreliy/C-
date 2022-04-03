@@ -119,7 +119,7 @@ void printArr(int[] arr)
 {
     for(int i = 0; i < arr.Length; i++)
     {
-        Console.Write(arr[i] + " ");
+        Console.Write(arr[i] + ", ");
     }
     Console.WriteLine(); 
 }
@@ -135,7 +135,7 @@ int multiCouple(int[] arr)
    
     return multi;
 }
-int[] nums = new int[15];
+int[] nums = new int[9];
 Random rnd = new Random();
 for(int i = 0; i < nums.Length; i++)
 {
