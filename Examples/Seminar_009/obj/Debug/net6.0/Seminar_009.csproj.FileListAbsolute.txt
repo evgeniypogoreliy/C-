@@ -1,0 +1,15 @@
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\bin\Debug\net6.0\Seminar_009.exe
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\bin\Debug\net6.0\Seminar_009.deps.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\bin\Debug\net6.0\Seminar_009.runtimeconfig.json
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\bin\Debug\net6.0\Seminar_009.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\bin\Debug\net6.0\Seminar_009.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.csproj.AssemblyReference.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.AssemblyInfoInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.AssemblyInfo.cs
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.csproj.CoreCompileInputs.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\refint\Seminar_009.dll
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.pdb
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\Seminar_009.genruntimeconfig.cache
+C:\Users\АСУ ТП\Desktop\GeekBrains\Рзаработчик\Знакомство с языками программирования (лекции)\GB_C#\Examples\Seminar_009\obj\Debug\net6.0\ref\Seminar_009.dll
